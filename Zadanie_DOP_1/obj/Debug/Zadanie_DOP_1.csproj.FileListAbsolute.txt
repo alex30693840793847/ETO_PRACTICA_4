@@ -1,0 +1,14 @@
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\MainWindow.g.cs
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\App.g.cs
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\Zadanie_DOP_1_MarkupCompile.cache
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\Zadanie_DOP_1_MarkupCompile.lref
+D:\cho4\Zadanie1\Zadanie_DOP_1\bin\Debug\Zadanie_DOP_1.exe.config
+D:\cho4\Zadanie1\Zadanie_DOP_1\bin\Debug\Zadanie_DOP_1.exe
+D:\cho4\Zadanie1\Zadanie_DOP_1\bin\Debug\Zadanie_DOP_1.pdb
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\MainWindow.baml
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\Zadanie_DOP_1.g.resources
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\Zadanie_DOP_1.Properties.Resources.resources
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\Zadanie_DOP_1.csproj.GenerateResource.cache
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\Zadanie_DOP_1.csproj.CoreCompileInputs.cache
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\Zadanie_DOP_1.exe
+D:\cho4\Zadanie1\Zadanie_DOP_1\obj\Debug\Zadanie_DOP_1.pdb

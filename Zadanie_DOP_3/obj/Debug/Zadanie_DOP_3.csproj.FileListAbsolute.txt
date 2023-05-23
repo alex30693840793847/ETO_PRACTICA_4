@@ -1,0 +1,15 @@
+D:\cho4\Zadanie1\Zadanie_DOP_3\bin\Debug\Zadanie_DOP_3.exe.config
+D:\cho4\Zadanie1\Zadanie_DOP_3\bin\Debug\Zadanie_DOP_3.exe
+D:\cho4\Zadanie1\Zadanie_DOP_3\bin\Debug\Zadanie_DOP_3.pdb
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3.csproj.AssemblyReference.cache
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\MainWindow.g.cs
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\App.g.cs
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3_MarkupCompile.cache
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3_MarkupCompile.lref
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\MainWindow.baml
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3.g.resources
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3.Properties.Resources.resources
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3.csproj.GenerateResource.cache
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3.csproj.CoreCompileInputs.cache
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3.exe
+D:\cho4\Zadanie1\Zadanie_DOP_3\obj\Debug\Zadanie_DOP_3.pdb

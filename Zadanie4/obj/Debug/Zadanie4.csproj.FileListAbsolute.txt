@@ -1,0 +1,14 @@
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\MainWindow.g.cs
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\App.g.cs
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\Zadanie4_MarkupCompile.cache
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\Zadanie4_MarkupCompile.lref
+D:\cho4\Zadanie1\Zadanie4\bin\Debug\Zadanie4.exe.config
+D:\cho4\Zadanie1\Zadanie4\bin\Debug\Zadanie4.exe
+D:\cho4\Zadanie1\Zadanie4\bin\Debug\Zadanie4.pdb
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\MainWindow.baml
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\Zadanie4.g.resources
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\Zadanie4.Properties.Resources.resources
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\Zadanie4.csproj.GenerateResource.cache
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\Zadanie4.exe
+D:\cho4\Zadanie1\Zadanie4\obj\Debug\Zadanie4.pdb
